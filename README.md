@@ -1,12 +1,10 @@
 ## Hello, world! I'm Ajinkya, a passionate Software developer pursuing Computer Engineering, always on the lookout for new opportunities to learn and grow.
 
 🌱 I’m currently learning more about full-stack development and exploring the realms of AI and machine learning.
-
+<br>
 <h3>🔧 Tech Stack:</h3>
 
 Languages: 
-<br>
-<br>
     <a href="https://www.python.org" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" class="icon" width="40" height="40">
     </a>
@@ -19,8 +17,6 @@ Languages:
 
     
 Web Development:
-<br>
-<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" class="icon" width="40" height="40">
     </a>
@@ -33,8 +29,6 @@ Web Development:
 
     
   Frameworks:
-  <br>
-  <br>
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" class="icon" width="40" height="40">
     </a>
@@ -50,8 +44,6 @@ Web Development:
 
     
   Databases:
-  <br>
-  <br>
     <a href="https://www.mysql.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" class="icon" width="40" height="40">
     </a>
@@ -60,19 +52,18 @@ Web Development:
     </a>
 
     
-  Tools: 
-  <br>
-  <br>
+  Tools:
     <a href="https://git-scm.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git Logo" class="icon" width="40" height="40">
     </a>
     <a href="https://code.visualstudio.com" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode Logo" class="icon" width="40" height="40">
     </a>
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://www.linkedin.com/in/ajinkya-gavali-48ab29249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/ajinkyagavali4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" /></a>
 <a href="https://leetcode.com/u/Ajinkyag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a>
